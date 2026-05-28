@@ -1,0 +1,5 @@
+2. "The Living History" (Tarixiy shaxslar bilan jonli video-muloqot)
+G'oya: Siz Gemini-ga Alisher Navoi, Amir Temur yoki Stiv Jobs kabi shaxsiyatni "kiyintirasiz" (system instruction orqali).
+Nega "Wooo": Foydalanuvchi kamerani yoqadi va qarshisida (ekranda uning rasmi bilan) "tirik" Navoiy turadi. Foydalanuvchi: "Bobojon, bugungi yoshlar haqida nima deysiz?" deb so'raydi. Gemini Navoiyning tilida, u ishlatgan so'zlar bilan, o'sha davrning donishmandligi bilan ovoz chiqarib javob beradi. Bu ta'lim tizimini butunlay portlatadigan loyiha.
+
+
