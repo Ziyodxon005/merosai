@@ -1,5 +1,6 @@
 import React, { useState } from 'react';
 import { AnimatePresence } from 'framer-motion';
+import { Analytics } from '@vercel/analytics/react';
 import SplashScreen from './components/SplashScreen';
 import WelcomePage from './components/WelcomePage';
 import ConversationPage from './components/ConversationPage';
@@ -44,6 +45,7 @@ function App() {
                     />
                 )}
             </AnimatePresence>
+            <Analytics />
         </div>
     );
 }
