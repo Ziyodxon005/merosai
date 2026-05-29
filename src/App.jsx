@@ -3,6 +3,7 @@ import { AnimatePresence } from 'framer-motion';
 import SplashScreen from './components/SplashScreen';
 import WelcomePage from './components/WelcomePage';
 import ConversationPage from './components/ConversationPage';
+import { Analytics } from '@vercel/analytics/react';
 import './App.css';
 
 function App() {
@@ -25,6 +26,7 @@ function App() {
 
     return (
         <div className="app">
+            <Analytics />
             <AnimatePresence mode="wait">
                 {currentPage === 'splash' ? (
                     <SplashScreen
